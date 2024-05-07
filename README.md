@@ -1,122 +1,54 @@
 # Awesome-Quantum
-A collection of various awesome resources about quantum mechanics, cryptography, security and hacking.
+> A collection of various awesome resources about quantum mechanics, cryptography, security, and hacking.
+
+## Schrödinger Equation
+The Schrödinger equation describes how the quantum state of a physical system changes over time:
+$$ i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t) $$
 
 
-# Quantum Mechanics:
+## Quantum Mechanics:
+- [Quantum Mechanics Overview](https://physics.aps.org/articles/v13/109)
+- [Particle in a Box - Wikipedia](https://en.wikipedia.org/wiki/Particle_in_a_box)
+- [Quantum Coherence and Entanglement](https://phys.org/news/2015-06-physicists-quantum-coherence-entanglement-sides.html)
+- [World's Picture of Quantum Mechanics](https://www.britannica.com/video/185515/Description-worlds-picture-quantum-mechanics)
+- [Quantum Cryptography: Safeguarding Information with the Power of Quantum Mechanics](https://murshedsk135.medium.com/quantum-cryptography-safeguarding-information-with-the-power-of-quantum-mechanics-4217ec1a0e4)
+- [Understanding the Basics of Quantum Mechanics](https://fastercapital.com/topics/understanding-the-basics-of-quantum-mechanics.html)
+- [Quantum Theory's Collapse](https://www.newscientist.com/article/mg23130820-200-collapse-has-quantum-theorys)
+- [Quantum Bayesianism - Wikipedia](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
+- [Quantum Sensor to Detect COVID](https://news.mit.edu/2021/quantum-sensor-detect-covid-1220)
+- [Quantum Metrology in Many-Body States](https://jila.colorado.edu/arey/research/quantum-metrology-many-body-states)
+- [Quantum Gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
+- [Physicists Rewrite a Quantum Rule That Clashes With Our Universe](https://www.wired.com/story/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe/)
+- [Double-Slit Experiment - Wikipedia](https://en.wikipedia.org/wiki/Double-slit_experiment)
+- [Fundamentals of Quantum Information](https://physicsworld.com/a/fundamentals-of-quantum-information/)
 
-https://fastercapital.com/topics/the-role-of-superposition-in-quantum-cryptography.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://murshedsk135.medium.com/quantum-cryptography-safeguarding-information-with-the-power-of-quantum-mechanics-4217ec1a0e4
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://fastercapital.com/topics/understanding-the-basics-of-quantum-mechanics.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://scholar.harvard.edu/files/david-morin/files/waves_quantum.pdf
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://en.wikipedia.org/wiki/Introduction_to_quantum_mechanics
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://fastercapital.com/startup-topic/Quantum-Mechanics.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.quora.com/What-is-quantum-entanglement-in-quantum-physics
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://zh.wikipedia.org/zh/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%B8%E5%85%A5%E9%96%80
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://sites.google.com/site/phyelearning/001/06_quantum
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://m.youtube.com/watch?v=CpOofKV5WR0
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.academia.edu/40539859/Chapter_3_Mathematical_Formalism_of_Quantum_Mechanics_3_1_Hilbert_Space
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://en.wikipedia.org/wiki/Quantum_mechanics
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.geeksforgeeks.org/valence-bond-theory/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://mappingignorance.org/2017/07/20/topological-quantum-chemistry-band-theory-solids-now-complete/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.nature.com/articles/s42254-019-0135-2
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.reddit.com/r/physicsmemes/comments/jj0nmp/interpretations_of_quantum_mechanics/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.popularmechanics.com/space/a24114/pilot-wave-quantum-mechanics-theory/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.newscientist.com/article/mg23130820-200-collapse-has-quantum-theorys-greatest-mystery-been-solved/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.maplesoft.com/applications/view.aspx?SID=154616
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://en.wikipedia.org/wiki/Double-slit_experiment
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://physicsworld.com/a/fundamentals-of-quantum-information/
-|-----------------------------------------------------------------------------------------------------------------------------|
+### Quantum Cryptography and Hacking
+- [A Simple Intercept-Resend Attack](https://www.researchgate.net/figure/A-simple-intercept-resend-attack-Eve-intercepts-each-photon-meant-for-Bob-randomly_fig2_251970951)
+- [Quantum Cryptography: From Theory to Practice](https://www.mdpi.com/2304-6732/9/8/527)
+- [Quantum Cryptography AV Media](https://av.tib.eu/media/38696)
+- [Secure Quantum Communication](https://www.mdpi.com/2227-7390/11/12/2681)
+- [Quantum Hacking and Its Critical Vulnerabilities](https://techxplore.com/news/2023-06-quantum-hacking-critical-vulnerabilities-key.html)
+- [Security of Quantum Communication Networks](https://www.nature.com/articles/s41534-020-00358-y)
+- [Plug-and-Play QKD Device Under Attack](https://link.springer.com/article/10.1007/s13538-022-01246-w)
+- [NPJ Quantum Information Journal](https://www.nature.com/articles/npjqi201625)
+- [Quantum Cryptography: A Comprehensive Survey](https://www.researchgate.net/publication/371606438_Quantum_Cryptography_for_Enhanced_Network_Security_A_Comprehensive_Survey_of_Research_Developments_and_Future_Directions)
+- [Post-Quantum Cryptography](https://www.bbvaopenmind.com/en/technology/digital-world/understanding-quantum-cryptography/)
+- [Understanding Quantum Cryptography](https://www.mdpi.com/2624-831X/2/1/5)
+- [Quantum Cryptography for Enhanced Network Security](https://crypto.stackexchange.com/questions/51311/what-makes-quantum-cryptography-secure)
+- [NIST Standardizes PQShield Algorithms for International Post-Quantum Cryptography](https://semiwiki.com/security/pqshield/319771-nist-standardizes-pqshield-algorithms-for-international-post-quantum-cryptography/)
+- [Quantum Key Distribution](https://www.etsi.org/committee/1430-qkd)
+- [Cryptographic Certificates in a Quantum-Safe World](https://www.isara.com/blog-posts/cryptographic-certificates-quantum-safe.html)
+- [Researchers Create First Logical Quantum Processor](https://news.harvard.edu/gazette/story/2023/12/researchers-create-first-logical-quantum-processor/)
+- [Publications from the Institute for Quantum Computing, University of Waterloo](https://uwaterloo.ca/institute-for-quantum-computing/research/publications)
+- [Research Groups in Quantum Information and Computation](https://www.physics.ox.ac.uk/research/theme/quantum-information-and-computation/research-groups)
+- [Harnessing Quantum Computing for Next-Gen Military Encryption and Security](https://www.karveinternational.com/insights/harnessing-quantum-computing-for-next-gen-military-encryption-and-security)
+- [Quantum Computing Companies](https://thequantuminsider.com/2023/12/29/quantum-computing-companies/)
+- [Quantum Computing for Healthcare](https://www.mdpi.com/1999-5903/15/3/94)
 
 
-# Quantum Cryptography and Hacking
+- [Secrets From the Future: Hacking in a Post-Quantum Cryptography World - Implications for Cyber Security and National Defense](https://www.researchgate.net/publication/379513733_Title_Secrets_From_the_Future_Hacking_in_a_Post-Quantum_Cryptography_World_Implications_for_Cyber_Security_and_National_Defense)
 
-https://www.researchgate.net/figure/A-simple-intercept-resend-attack-Eve-intercepts-each-photon-meant-for-Bob-randomly_fig2_251970951
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.mdpi.com/2304-6732/9/8/527
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://av.tib.eu/media/38696
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.mdpi.com/2227-7390/11/12/2681
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://techxplore.com/news/2023-06-quantum-hacking-critical-vulnerabilities-key.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.nature.com/articles/s41534-020-00358-y
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://link.springer.com/article/10.1007/s13538-022-01246-w
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.researchgate.net/figure/Plug-and-play-QKD-device-under-attack-Alices-side-includes-a-9010-optical-coupler-C_fig2_343411872
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.nature.com/articles/npjqi201625
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.keysight.com/us/en/assets/7018-06422/solution-briefs/5992-3502.pdf
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://cmitsolutions.com/tribeca-ny-1166/blog/tools-and-techniques-of-ethical-hacking/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://physics.aps.org/articles/v6/104
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.semanticscholar.org/paper/Faked-states-attack-and-quantum-cryptography-Denny/79da0f62b7d15aa8bdcb695c1a3999c6aa565b59
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://adamlevin.com/2022/12/01/introduction-to-quantum-hacking/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://en.wikipedia.org/wiki/Quantum_key_distribution
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://qutech.nl/2021/07/06/untappable-quantum-cryptography-becomes-practical-with-mdi-qkd/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.nature.com/articles/s41534-023-00684-x
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.nature.com/articles/s41534-021-00400-7
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.pqsignatures.org/index/hbs.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.cryptoquantique.com/blog/post-quantum-cryptography/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.bbvaopenmind.com/en/technology/digital-world/understanding-quantum-cryptography/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.mdpi.com/2624-831X/2/1/5
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://link.springer.com/article/10.1007/s11831-021-09561-2
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://crypto.stackexchange.com/questions/51311/what-makes-quantum-cryptography-secure
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.researchgate.net/publication/371606438_Quantum_Cryptography_for_Enhanced_Network_Security_A_Comprehensive_Survey_of_Research_Developments_and_Future_Directions
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://semiwiki.com/security/pqshield/319771-nist-standardizes-pqshield-algorithms-for-international-post-quantum-cryptography/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.etsi.org/committee/1430-qkd
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.isara.com/blog-posts/cryptographic-certificates-quantum-safe.html
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://news.harvard.edu/gazette/story/2023/12/researchers-create-first-logical-quantum-processor/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://uwaterloo.ca/institute-for-quantum-computing/research/publications
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.physics.ox.ac.uk/research/theme/quantum-information-and-computation/research-groups
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.researchgate.net/publication/379513733_Title_Secrets_From_the_Future_Hacking_in_a_Post-Quantum_Cryptography_World_Implications_for_Cyber_Security_and_National_Defense
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.karveinternational.com/insights/harnessing-quantum-computing-for-next-gen-military-encryption-and-security
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://thequantuminsider.com/2023/12/29/quantum-computing-companies/
-|-----------------------------------------------------------------------------------------------------------------------------|
-https://www.mdpi.com/1999-5903/15/3/94
-|-----------------------------------------------------------------------------------------------------------------------------|
+
+
+- 📫 How to reach me **Cyber.Buslness@protonmail.com**
+
