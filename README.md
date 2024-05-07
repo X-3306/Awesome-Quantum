@@ -3,7 +3,10 @@
 
 ## Schrödinger Equation
 The Schrödinger equation describes how the quantum state of a physical system changes over time:
-$$ i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t) $$
+
+$$
+i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)
+$$
 
 
 ## Quantum Mechanics:
