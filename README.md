@@ -2,18 +2,18 @@
 > A collection of various awesome resources about quantum mechanics, cryptography, security, and hacking.
 
 #### 5 of the most important equations in quantum mechanics:
+**Schrödinger Equation** (time-dependent):
+$$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
+*This equation describes how the quantum state of a system evolves over time. It relates the rate of change of the wavefunction $\Psi$ to the Hamiltonian operator $\hat{H}$, which represents the total energy of the system.*
 **Schrödinger Equation** (time-independent):
 $$\hat{H}\Psi(\mathbf{r}) = E\Psi(\mathbf{r})$$
 *This is the time-independent form of the Schrödinger equation, used to find the stationary states and energy levels of a system.*
-
 **Born Rule** (probability interpretation):
 $$\int_{V}|\Psi(\mathbf{r})|^2 dV = 1$$
 *This equation states that the square of the wavefunction $|\Psi|^2$ represents the probability density of finding a particle at a given position.
-
 **Heisenberg Uncertainty Principle**:
 $$\Delta x \Delta p \geq \frac{\hbar}{2}$$
 *This principle states that there is a fundamental limit to the precision with which certain pairs of physical properties (such as position and momentum) can be simultaneously measured.*
-
 **Dirac Equation** (relativistic):
 $$\left(i\hbar\gamma^\mu\partial_\mu - mc\right)\Psi = 0$$
 *This is the relativistic wave equation for spin-1/2 particles, proposed by Paul Dirac, which incorporates both quantum mechanics and special relativity.
