@@ -1,5 +1,5 @@
 # Awesome-Quantum
-> A collection of various awesome resources about quantum mechanics, cryptography, security, and hacking.
+> A collection of various awesome resources about quantum mechanics, cryptography, computing, and hacking.
 
  #### 5 of the fundamental equations in quantum mechanics:
  **Schrödinger Equation** (time-dependent):
@@ -83,8 +83,29 @@ $$\left(i\hbar\gamma^\mu\partial_\mu - mc\right)\Psi = 0$$
 - [Quantum Computing Companies](https://thequantuminsider.com/2023/12/29/quantum-computing-companies/)
 - [Quantum Computing for Healthcare](https://www.mdpi.com/1999-5903/15/3/94)
 
-
 - [Secrets From the Future: Hacking in a Post-Quantum Cryptography World - Implications for Cyber Security and National Defense](https://www.researchgate.net/publication/379513733_Title_Secrets_From_the_Future_Hacking_in_a_Post-Quantum_Cryptography_World_Implications_for_Cyber_Security_and_National_Defense)
+
+
+### Books:
+[quantum-mechanics](https://www.hachettebookgroup.com/titles/leonard-susskind/quantum-mechanics/9780465080618/?lens=basic-books)
+[Quantum-Mechanics-Introduction-Alexandre](https://www.amazon.co.uk/Quantum-Mechanics-Introduction-Alexandre-2015-08-27/dp/B01K0SQGN6)
+[Quantum-Mechanics-Applications-Nouredine-Zettili](https://www.amazon.co.uk/Quantum-Mechanics-Applications-Nouredine-Zettili/dp/0470026782)
+[Principles-Quantum-Mechanics-R-Shankar](https://www.amazon.co.uk/Principles-Quantum-Mechanics-R-Shankar/dp/0306447908)
+[cohen-tannoudji-diu-and-laloe-quantum-mechanics](https://archive.org/details/cohen-tannoudji-diu-and-laloe-quantum-mechanics-vol.-i-ii-and-iii-2nd-ed.)
+[Modern-Quantum-Mechanics-J-Sakurai](https://www.amazon.co.uk/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229)
+[M-Suhail-Zubairy](https://www.amazon.com/-/en/M-Suhail-Zubairy/dp/0198854226)
+[quantum-information-theory-2nd-edition](https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/quantum-information-theory-2nd-edition?format=HB&isbn=9781107176164)
+[Quantum-Computation-Information-10th-Anniversary](https://www.amazon.co.uk/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
+[quantum-algorithms-via-linear-algebra](https://www.waterstones.com/book/quantum-algorithms-via-linear-algebra/richard-j-lipton/kenneth-w-regan/9780262028394)
+[Quantum-Computer-Science-David-Mermin](https://www.amazon.com/Quantum-Computer-Science-David-Mermin/dp/0521876583)
+[quantum-computing](https://www.waterstones.com/book/quantum-computing/mikio-nakahara/tetsuo-ohmi/9780750309837)
+[article](https://link.springer.com/article/10.1007/s11128-021-03021-3)
+[quantum-cryptography-and-secretkey-distillation](https://www.cambridge.org/core/books/quantum-cryptography-and-secretkey-distillation/73509C334A1665F8CA0514E7E9BC5CEF)
+[quantum-information-theory](https://www.cambridge.org/core/books/quantum-information-theory/9DC2CA59F45636D4F0F30D971B677623)
+[Books-Fred-Kuttner](https://www.amazon.co.uk/Books-Fred-Kuttner/s?rh=n%3A266239%2Cp_27%3AFred+Kuttner)
+[foundations-of-quantum-mechanics](https://www.waterstones.com/book/foundations-of-quantum-mechanics/travis-norsen/9783319658667)
+
+
 
 
 
