@@ -1,6 +1,8 @@
 # Awesome-Quantum
 > A collection of various awesome resources about quantum mechanics, cryptography, computing, and hacking.
 
+[![](https://media.licdn.com/dms/image/C5612AQFwa5OqAck1Vw/article-cover_image-shrink_720_1280/0/1575616468465?e=1720656000&v=beta&t=4DXd82hCaF57rb-kdfum3jHfG9BykLRDhrzDCqlTcgE)](https://media.licdn.com/dms/image/C5612AQFwa5OqAck1Vw/article-cover_image-shrink_720_1280/0/1575616468465?e=1720656000&v=beta&t=4DXd82hCaF57rb-kdfum3jHfG9BykLRDhrzDCqlTcgE)
+
  #### 5 of the fundamental equations in quantum mechanics:
  **Schrödinger Equation** (time-dependent):
 $$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
